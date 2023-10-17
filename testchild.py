@@ -1,0 +1,1 @@
+Print("protect a child)
